@@ -4,3 +4,4 @@ git repo2
  clone frist
 
  clone second
+new code
