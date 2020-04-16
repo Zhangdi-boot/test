@@ -1,2 +1,4 @@
 git repo2
  commit third demo
+
+ clone frist
